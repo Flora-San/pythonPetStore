@@ -24,5 +24,3 @@ To run these tests, save the code to a Python file (e.g., `test_pet_store.py`) a
 ```bash
 pytest test_pet_store.py
 ```
-
-Make sure to adapt the code to your specific requirements and handle error cases as needed in a real-world scenario.
